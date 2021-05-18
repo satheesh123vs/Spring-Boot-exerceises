@@ -1,5 +1,7 @@
 package net.guides.springboot2.springboot2webappjsp;
 
+import static org.junit.Assert.assertTrue;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -11,6 +13,8 @@ public class Springboot2WebappJspApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
+		assertTrue(true);
 	}
 
 }

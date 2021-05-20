@@ -1,4 +1,4 @@
-# springboot2-webapp-jsp
+# springboot2-webapp-jsp : many-to-one mapping example
 Spring mvc web application using Spring Boot 2 JSP JPA/Hibernate 5 MySQL example
 
 Explaination of this source code available on below article 

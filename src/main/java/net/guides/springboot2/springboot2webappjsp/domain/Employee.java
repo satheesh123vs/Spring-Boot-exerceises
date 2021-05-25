@@ -83,5 +83,13 @@ public class Employee {
 	public void setEmpName(String empName) {
 		this.empName = empName;
 	}
+	public float getSalary() {
+		return salary;
+	}
+
+	public void setSalary(float salary) {
+		this.salary = salary;
+	}
+
 
 }

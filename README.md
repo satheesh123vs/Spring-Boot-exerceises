@@ -1,2 +1,6 @@
-# Spring_Boot-Microservice Exercises
+# Spring boot -  Swagger demo
 
+
+ # reference: 
+ 
+ https://www.javainuse.com/spring/boot_swagger

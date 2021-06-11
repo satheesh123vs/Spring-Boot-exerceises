@@ -1,6 +1,6 @@
 # Spring Rest Client - Rest template : consume-restful-web-service-example-json
 
-#The below api urls can be called either from post man or any browser. The url will return the student object in JSON format.
+# The below api urls can be called either from post man or any browser. The url will return the student object in JSON format.
 
 URL – http://localhost:8080/student
 	  {"id":1,"name":"name1"}
